@@ -38,6 +38,30 @@ This project provides a Python script to **automatically convert Roman numerals 
 2. Run the Python script:  
    ```bash
    python roman_numeral.py
+3. Enter any Roman numeral (e.g., MCMXCIV) and get the integer output.
+🧩 Example
+Enter the roman numerals you want to convert: MCMXCIV
+The roman numerals you entered translates to: 1994!
+
+📂 Project Structure
+Convert-Roman-Numerals-With-Python/
+│
+├── roman_numeral.py   # Main Python script
+├── README.md          # Project documentation
+
+💡 Future Improvements
+
+Add reverse conversion (integer → Roman numeral).
+
+Create a simple web interface with Flask/Django.
+
+Write unit tests for validation.
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo, open issues, or submit pull requests.
+
 ## 📜 License  
 
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.  
